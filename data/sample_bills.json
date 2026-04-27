@@ -1,0 +1,17 @@
+{
+    "items": [
+        {"name": "Margherita Pizza", "category": "Main", "price": 12.50, "gst": 0.05},
+        {"name": "Pepperoni Pizza", "category": "Main", "price": 15.00, "gst": 0.05},
+        {"name": "Penne Alfredo", "category": "Main", "price": 14.00, "gst": 0.05},
+        {"name": "Classic Burger", "category": "Main", "price": 11.00, "gst": 0.05},
+        {"name": "Chicken Steak", "category": "Main", "price": 18.50, "gst": 0.05},
+        {"name": "Caesar Salad", "category": "Side", "price": 8.00, "gst": 0.05},
+        {"name": "French Fries", "category": "Side", "price": 4.50, "gst": 0.05},
+        {"name": "Garlic Bread", "category": "Side", "price": 5.00, "gst": 0.05},
+        {"name": "Coca Cola", "category": "Drink", "price": 2.50, "gst": 0.18},
+        {"name": "Fresh Lime Soda", "category": "Drink", "price": 3.00, "gst": 0.18},
+        {"name": "Iced Coffee", "category": "Drink", "price": 4.00, "gst": 0.18},
+        {"name": "Chocolate Lava Cake", "category": "Dessert", "price": 7.50, "gst": 0.05},
+        {"name": "Vanilla Ice Cream", "category": "Dessert", "price": 5.00, "gst": 0.05}
+    ]
+}
